@@ -8,3 +8,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## 2: Guessing Game 🎯
+
+a)  Answer the following guessing questions, each in its own line:
+    1)  How many liters of Beer have been drunken at the Oktoberfest in Munich in 2019? 🍻 3600000
+    2)  How many people live in Karlsruhe? (Exactly) 🏘️ 452768
+    3)  What percentage of Americans asked in a survey in 2017, indicated that they believe in Astrology? 🌟 13%
